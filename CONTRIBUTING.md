@@ -23,4 +23,4 @@ Your contributions are always welcome!
 
 
 ## What is mammoth's shit?
-Is old and unsupported projects where last commit was one or more years ago.
+Its old and unsupported projects where last commit was one or more years ago.
