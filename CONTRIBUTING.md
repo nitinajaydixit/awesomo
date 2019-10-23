@@ -10,7 +10,7 @@ Your contributions are always welcome!
 
 - Add the link: `- [**project-name**](http://example.com/) - The description ends with a period.`
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Search previous suggestions before making a new one, as yours may be a duplicate one.
 
 - Check your spelling and grammar.
 
