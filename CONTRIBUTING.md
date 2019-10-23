@@ -22,5 +22,5 @@ Your contributions are always welcome!
 
 
 
-## What is mammoth's shit?
+## What is mammoth shit?
 Its old and unsupported projects where last commit was one or more years ago.
