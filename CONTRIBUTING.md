@@ -1,6 +1,6 @@
 # Contributing
 
-Your contributions are always welcome,Feel free to contribute :)
+Your contributions are always welcome! ,Feel free to contribute :)
 
 ## Guidelines
 
