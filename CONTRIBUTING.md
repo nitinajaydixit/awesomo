@@ -14,7 +14,7 @@ Your contributions are always welcome!
 
 - Check your spelling and grammar.
 
-- Remove any trailing whitespace.
+- Remove any trailing whitespaces.
 
 - Send a PR with the reason why the library is really interesting.
 
