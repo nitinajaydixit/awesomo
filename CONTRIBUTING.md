@@ -4,7 +4,7 @@ Your contributions are always welcome :)
 
 ## Guidelines :-
 
-- Add 1 link per commit.
+- Add one link per commit.
 
 - Add one commit per Pull Request.
 
