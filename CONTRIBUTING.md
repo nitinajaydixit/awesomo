@@ -1,4 +1,4 @@
-# Contributing
+# Contribution
 
 Your contributions are always welcome! ,Feel free to contribute :)
 
