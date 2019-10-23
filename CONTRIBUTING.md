@@ -1,8 +1,8 @@
-# Contributing
+# Contributing :-
 
 Your contributions are always welcome :)
 
-## Guidelines
+## Guidelines :-
 
 - Add 1 link per commit.
 
