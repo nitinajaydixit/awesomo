@@ -6,7 +6,7 @@ Your contributions are always welcome,Feel free to contribute :)
 
 - Add one link per commit.
 
-- Add 1 commit per Pull Request.
+- Add one commit per Pull Request.
 
 - Add the project link: `- [**project-name**](http://example.com/) - The description ends with a period.`
 
